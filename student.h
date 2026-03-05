@@ -1,8 +1,7 @@
 #ifndef STUDENT_H
 #define STUDENT_H
 
-#include <iostream>
-#include <fstream>
+#include <bits/stdc++.h>
 using namespace std;
 
 struct student{
