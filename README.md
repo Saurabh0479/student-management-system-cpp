@@ -23,13 +23,10 @@ student-management-system-cpp
 └── README.md
 ---
 ## How to Run
-1. Clone the repository
-git clone https://github.com/Saurabh0479/student-management-system-cpp.git
+1. Clone the repository git clone https://github.com/Saurabh0479/student-management-system-cpp.git
 2. Open the project in a C++ compiler (VS Code, CodeBlocks, etc.)
-3. Compile the code
-g++ main.cpp -o student
-4. Run the program
-./student
+3. Compile the code g++ main.cpp -o student
+4. Run the program ./student
 ---
 ## Future Improvements
 - Store student records using file handling
