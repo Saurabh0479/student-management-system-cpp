@@ -3,3 +3,4 @@
 3 virat Delhi 31 2343242524 cricket
 2 kohli mumbai 21 35345353 BA
 18 Rohan Prayagraj 20 76738187317 BSC
+5 Kunal kolkata 17 4636346325 B.Tech
