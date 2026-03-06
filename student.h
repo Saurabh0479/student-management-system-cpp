@@ -12,7 +12,8 @@ struct student{
     string course;
     string address;
 };
-void addStudents();
+void addStudent();
 void viewStudents();
+void searchStudent();
 
 #endif
