@@ -15,5 +15,7 @@ struct student{
 void addStudent();
 void viewStudents();
 void searchStudent();
+void updateStudents();
+void deleteStudent();
 
 #endif

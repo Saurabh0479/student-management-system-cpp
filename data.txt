@@ -1,6 +1,5 @@
-
-1 Saurabh kaimur 19 7873173193 B.tech
-3 virat Delhi 31 2343242524 cricket
-2 kohli mumbai 21 35345353 BA
-18 Rohan Prayagraj 20 76738187317 BSC
-5 Kunal kolkata 17 4636346325 B.Tech
+1 Saurabh kaimur 19 7482892392 B.Tech 
+18 Virat Delhi 30 85889737579 Cricket 
+7 Dhoni Ranchi 38 78457347893 Cricket 
+45 Rohit Mumbai 32 78467397693 Bsc 
+32 Hardik Gujrat 26 78345737573 B.com 
