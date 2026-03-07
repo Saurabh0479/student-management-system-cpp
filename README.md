@@ -28,7 +28,7 @@ student-management-system-cpp
 1. Clone the repository 
 git clone https://github.com/Saurabh0479/student-management-system-cpp.git
 2. Open the project in a C++ compiler
-3. Compile the code g++ main.cpp -o student
+3. Compile the code g++ main.cpp student.cpp -o main
 4. Run the program ./main
 ---
 ## Concepts Used
