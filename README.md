@@ -1,6 +1,6 @@
 # Student Management System (C++)
 This is a simple console-based Student Management System developed using C++.  
-The project allows users to manage student records by performing basic operations like adding, viewing, searching, updating, and deleting student data.
+The project allows users to manage student records by performing basic operations like adding, viewing, searching, updating, and deleting student data.Also stores students data using File handling.
 ---
 ## Features
 - Add new student records
