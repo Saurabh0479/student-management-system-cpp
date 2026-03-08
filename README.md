@@ -10,7 +10,6 @@ The project allows users to manage student records by performing basic operation
 - Delete student records
 ---
 ## Technologies Used
-
 - C++
 - Git
 - GitHub
@@ -41,7 +40,6 @@ git clone https://github.com/Saurabh0479/student-management-system-cpp.git
 - Better search Functionality(By name or course)
 - Add database support(MySQL or SQLite) instead of text file storage
 - Add sorting and filtering options
-- Improve user interface
 - Export Student records
 
 ---
